@@ -2,3 +2,4 @@
 -h --> string table
 -t --> symbol table
 -d --> disassembler
+RISCV
